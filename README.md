@@ -8,4 +8,4 @@ urls = ['https://www.mytischtennis.de/clicktt/ByTTV/18-19/ligen/Bezirksoberliga/
 g = ScrapeSpielplan()
 g.scrape_spielplan(urls)
 
-![Ergebnis Console](https://github.com/pkienle/scrape_spielplan/result.jpg)
+![Ergebnis Console](https://github.com/pkienle/scrape_spielplan/blob/master/result.jpg)
