@@ -10,3 +10,7 @@ g.scrape_spielplan(urls)
 ```
 
 ![Ergebnis Console](https://github.com/pkienle/scrape_spielplan/blob/master/result.jpg)
+
+Example of inserted rows into database table:
+
+![Ergebnis Datenbank](https://github.com/pkienle/scrape_spielplan/blob/master/result2.jpg)
